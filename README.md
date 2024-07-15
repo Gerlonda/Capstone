@@ -1,29 +1,73 @@
-# Savvy Coders Project Boilerplate Starter Kit
+# Gerlonda Brown Capstone
+## Missouri Notary Directory
 
-## Overview
+### Capstone Project Planning Week 1 Homework
+#### 1. Please complete each section below
+Write a Definition Statement
+I want to build an application that:
+I want to build an application that will serve as a notary directory, it will allow people to find local notaries in Missouri.
 
-This template repository contains several opinionated, 'starter' files and settings to help Savvy Coder students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
+#### 2. Define your Audience:
+My audience is people is people who will need documents notarized typically people of legal consent age example audience would be: divorcees, real estate agents, office professionals, and anyone who needs a document notarized.
 
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
+#### 3. Who is using my application
+The website can be used by anyone who wants to find a notary in Missouri, so typically Missouri residents.
 
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [Prettier](prettier.io)
+####  Outline the content of the application
+#### What do I want on each page? (text / pics / images / navigation)
+Red White and Blue color palette. American flag hero image.
 
-## Get Started
+#### What do I want the functionality of each page to be?
+Navigate to directory.
 
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per the instructions in the curriculum.
+#### What is the purpose of my application?
+To create a directory that shows users who are notaries in missouri by distance and the services they offer.
 
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), clone the Savvy Starter Repo - essentially, there should be a button that says **Use this template.**
+#### What business problem or real world problem am I going to be solving?
+Directing Missouri residents to local notaries.
 
-> [Read more about using templates on GitHub here...](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+### Define the attributes of your website
+Color Palette - Red White and Blue made to closely resemble the Missouri flag and also the American flag colors
 
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual.
+Images - American flag banner./hero image
 
-Once it's `clone`d to your local machine, `cd` into the directory and **be sure to do:** `npm i` to get all of the dependencies installed. If you see any _errors_ (warnings are OK) on Windows, you may have to do `npm install`.
+![American Flag hero image](/AmericanFlag.png
+)
 
-Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom `right` of your screen). You should install these.
+Fonts - Sans serif
 
-In your repo, feel free to update this README and make any other initial changes to files, etc. Then go ahead and do your usual `git` steps -- add, commit, and push.
+Logos - red white and blue logo of the Missouri state
 
-**Note:** This is a template repository, no need to 'fork it.
+#### Navigation
+Create and provide link to User Story Map in Mural
+Research the following:
+[Mural Map](https://app.mural.co/t/savvycoders5847/m/savvycoders5847/1721051829189/5b1fb0c19ef13f4dded8771aab554e1588ac8173?sender=ue67ee9f9fe46bf22b6678015)
+
+List Applications Researched: (links to websites / applications)
+
+[SOS Website](https://www.sos.mo.gov/)
+
+[Missouri Notary Website](https://www.missourinotary.com/)
+
+
+#### List what you like about each site:
+I like each website has Red white and Blue aligning with the Missouri Flag colors and the websites aren't too complicated in design making it easier to navigate to important info.
+
+#### List what you do not like about each site:
+Too many navigation pages.
+
+#### How my application will be different:
+My application will only have 5 pages making navigation easier and direct to the point.
+
+### Create wireframes and provide link for each page
+(minimum of 4-5 pages) including Home, About Me, Contact Us and 1-2 other pages
+demonstrating the specific functionality of your capstone's purpose
+
+Create and provide link to User Flow Diagram
+[User Flow Diagram](/wireframe.jpg)
+
+Create and provide link to SWOT Analysis
+
+[GB SWAT ANALYSIS](/GB%20Capstone%20SWOT%20Analysis.pdf)
+
+
