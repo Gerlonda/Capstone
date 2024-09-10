@@ -1,0 +1,43 @@
+html {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.R {
+    color: red;
+}
+
+p[draggable="true"]
+{
+    color: red;
+}
+
+*{
+    text-align: center;
+}
+
+body {
+    background-color: #f0e6ea;
+  }
+  
+  header{
+    background-color: hsl(247, 100%, 22%);
+  }
+  .nav-bar {
+    background-color: hsl(247, 96%, 22%);
+    padding: 1em;
+    color: #D9D0DE;
+    font-size: 1.2em;
+    font-weight: 600;
+  }
+  
+  nav > ul > li {
+    border: solid 1px;
+    padding: .33em;
+    display: inline-block;
+  }
+  
+  footer {
+    padding: .5em;
+    background-color: hsl(247, 69%, 44%);
+  }
